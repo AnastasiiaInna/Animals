@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animal" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAERICCAACBIIgEAAAAAAAAIAAAiAAgAYCAEAIIgAAA=</HashCode>
+      <FileName>Animal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Artiodactyla" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAwCAAAQAAAAA=</HashCode>
+      <FileName>Artiodactyla.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aves" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAECAAAAAAAgBAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Aves.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carnivora" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEQAAAAAAAAAAAAAAAAAAIAAAAgAAAAQCCgAAAAAQA=</HashCode>
+      <FileName>Carnivora.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ciconiiformes" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAABAAAAAAAAAAAgAAAgAAAEQCAAAAAAAAA=</HashCode>
+      <FileName>Ciconiiformes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crocodiles" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAAAAAAAAAAAAAAAAAAAAQAgAAAAQCIAAAAAAAA=</HashCode>
+      <FileName>Crocodiles.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mammalia" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAAAAAAAAAAAAABAAIAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mammalia.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Psittaciformes" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAgAAAAQCAAAAEAAAA=</HashCode>
+      <FileName>Psittaciformes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reptilia" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAQAAAAAQAAAAAAAIgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reptilia.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rhinocerotidae" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAgAAAAQCgAAAAAAAA=</HashCode>
+      <FileName>Rhinocerotidae.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snakes" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgQBAAAAAAAAAAAAAAAAAAAAAAoAAAAQCAAAAAAAAA=</HashCode>
+      <FileName>Snakes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
